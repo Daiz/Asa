@@ -1,4 +1,4 @@
-/*jshint undef:true devel:true browser:true boss:true */
+/*jshint undef:true browser:true boss:true */
 /*global Asa */
 
 (function(Asa){
